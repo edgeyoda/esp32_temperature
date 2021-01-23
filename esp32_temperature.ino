@@ -3,10 +3,9 @@
  *  for temperature sensing (ESP32, MAX31855 thermocouple amplifier, and OLED display)
  *
  */
-
+#include <esp32_temperature_inference.h>
 #include <WiFi.h>
 #include <WiFiUdp.h>
-#include <esp32_inference.h>
 
 #include <SPI.h>
 #include "Adafruit_MAX31855.h"
