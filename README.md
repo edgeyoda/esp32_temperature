@@ -16,4 +16,5 @@ Steps to follow for trying out this example:
 2. Clone the public project at https://studio.edgeimpulse.com/studio/16389/
 3. Generate an Arduino .zip on the Deployment page (by clicking 'Build')
 4. After downloading and opening the .ino file, go to 'Sketch' -> 'Include Library' -> 'Add .ZIP Library' and point it to the Arduino .zip file from step 3.
-5. Compile and Upload the Sketch
+5. The application is originally setup to require a Wi-Fi connection before the application starts so first enter your Wi-Fi ssid/password in the sketch
+6. Compile and Upload the Sketch
