@@ -39,8 +39,8 @@ Adafruit_MAX31855 thermocouple(MAXCS);
 static bool debug_nn = false; // Set this to true to see e.g. features generated from the raw signal
 
 // WiFi network name and password:
-const char * networkName = "winzin311";
-const char * networkPswd = "pepe1150";
+const char * networkName = "";
+const char * networkPswd = "";
 
 //IP address to send UDP data to:
 // either use the ip address of the server or 
